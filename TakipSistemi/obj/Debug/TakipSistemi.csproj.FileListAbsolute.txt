@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\tt\TakipSistemi\bin\Debug\TakipSistemi.exe.config
+C:\Users\Ali\Desktop\tt\TakipSistemi\bin\Debug\TakipSistemi.exe
+C:\Users\Ali\Desktop\tt\TakipSistemi\bin\Debug\TakipSistemi.pdb
+C:\Users\Ali\Desktop\tt\TakipSistemi\obj\Debug\TakipSistemi.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\tt\TakipSistemi\obj\Debug\TakipSistemi.Form1.resources
+C:\Users\Ali\Desktop\tt\TakipSistemi\obj\Debug\TakipSistemi.Properties.Resources.resources
+C:\Users\Ali\Desktop\tt\TakipSistemi\obj\Debug\TakipSistemi.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\tt\TakipSistemi\obj\Debug\TakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\tt\TakipSistemi\obj\Debug\TakipSistemi.exe
+C:\Users\Ali\Desktop\tt\TakipSistemi\obj\Debug\TakipSistemi.pdb
